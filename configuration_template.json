@@ -94,7 +94,8 @@
     "ntp": true,
     "packages": [
         "dhcpcd",
-        "xemu-git"
+        "xemu-git",
+        "linux-zen-headers"
     ],
     "parallel downloads": 0,
     "profile_config": {
