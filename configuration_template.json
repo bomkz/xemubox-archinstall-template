@@ -57,8 +57,8 @@
                                 "unit": "B",
                                 "value": 512
                             },
-                            "unit": "B",
-                            "value": 2933915648
+                            "unit": "GiB",
+                            "value": 32
                         },
                         "start": {
                             "sector_size": {
@@ -97,7 +97,7 @@
         "dhcpcd",
         "xemu-git",
         "linux-zen-headers",
-        "xone-dongle-firmware-git",
+        "xone-dongle-firmware",
         "xone-dlundqvist-dkms-git"
 
     ],
